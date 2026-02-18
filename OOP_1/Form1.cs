@@ -90,7 +90,7 @@ namespace OOP_1
             {
                 textBox1.Text = CalculateU().ToString();
                 textBoxX.Text = "-4.5";
-                textBoxY.Text = "0.000075";
+                textBoxY.Text = "0.000075"; 
                 textBoxZ.Text = "84.5";
             }
             else
